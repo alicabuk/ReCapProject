@@ -12,6 +12,7 @@ namespace ConsoleUI
         {
 
             CarManager carManager = new CarManager(new EfCarDal());
+            //TEST
             //carManager.Add(new Car { });
 
             //BrandManager brandManager = new BrandManager(new EfBrandDal());
