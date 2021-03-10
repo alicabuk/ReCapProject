@@ -13,7 +13,7 @@ namespace WebAPI.Controllers
     public class CarsController : ControllerBase
     {
         [HttpGet]
-
+        //Araba 
         public List<Car> Get()
         {
             return new List<Car>
