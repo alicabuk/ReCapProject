@@ -3,7 +3,6 @@ C:\Users\ALI G\source\repos\ReCapProject\Core\bin\Debug\netstandard2.0\Core.dll
 C:\Users\ALI G\source\repos\ReCapProject\Core\bin\Debug\netstandard2.0\Core.pdb
 C:\Users\ALI G\source\repos\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
 C:\Users\ALI G\source\repos\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
-C:\Users\ALI G\source\repos\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 C:\Users\ALI G\source\repos\ReCapProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\ALI G\source\repos\ReCapProject\Core\obj\Debug\netstandard2.0\Core.pdb
 C:\Users\ALI G\source\repos\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache

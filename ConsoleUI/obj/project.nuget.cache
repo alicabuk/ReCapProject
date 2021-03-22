@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pKG151q8hO1U/ZU9JzhHD1TIlRU2U3mGYF76gKse6kWZIVYQd53rEe2GfkwA/YEKCKXhO+x2NgDuRkR3YmIpTA==",
+  "dgSpecHash": "dMzy+0QBKZzjBZIMQorYskC4HUvFE8tJnwEemUpqylfH+dPXNRk5158ukkeHS76jf+XbsilCPbgTezhPK0dfsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ALI G\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALI G\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\ALI G\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\ALI G\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\ALI G\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\ALI G\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\ALI G\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ALI G\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\ALI G\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
