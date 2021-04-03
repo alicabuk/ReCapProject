@@ -25,7 +25,11 @@ namespace Business.Concrete
         [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {
-
+            var result = _carDal.GetAll(c => c.CarName == car.CarName);
+            if(result != null)
+            {
+                return new ErrorResult("Daha önce böyle araba mevcut.");
+            }
             _carDal.Add(car);
             return new SuccessResult("Araba eklendi.");
         }
