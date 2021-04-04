@@ -32,7 +32,7 @@ namespace Business.BusinessAspects.Autofac
                     return;
                 }
             }
-            throw new Exception("Jwt Hata");
+            throw new Exception("Yetki Yok");
         }
     }
 }
